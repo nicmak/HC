@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+.Footer {
+	display:flex;
+	flex-direction: row;
+	background:#ef3954;
+	background-size: cover;
+	height:300px;
+	justify-content: center;
+	font-family:'Poppins',sans-serif
+
+}
+
+.Table {
+	order:1;
+	border-spacing:104px 30px;
+}
+
+.Table td {
+	font-size: 12px;
+	color:white;
+}
+
+.Table th {
+}

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+
+.NavBar {
+	display:flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.logo {
+/*	background-image: url('../logo.png')
+
+*/
+color: 'ef3954'
+}
+
+.NavBar-Buttons {
+  order:1;
+}
+
+.NavBar-Buttons FlatButton {
+		font-family:'Poppins',sans-serif
+}
