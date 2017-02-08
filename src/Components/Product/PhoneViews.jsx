@@ -1,5 +1,4 @@
 import React, {Component} from 'react'
-import SwipeableViews from 'react-swipeable-views'
 import './Styles/PhoneViews.css'
 export default class PhoneViews extends Component {
 	render() {

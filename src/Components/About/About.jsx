@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import {Tabs, Tab} from 'material-ui/Tabs'
-import Team from './Team'
 
 export default class About extends Component {
 	render() {
@@ -12,7 +11,6 @@ export default class About extends Component {
         Tab1 Content
       </Tab>
       <Tab label="The Team">
-        <Team/>
       </Tab>
       <Tab label="The Advisors">
         Tab3 Content

@@ -1,7 +1,5 @@
 import React, { Component } from 'react'
 import TextField from 'material-ui/TextField'
-import SelectField from 'material-ui/SelectField'
-import MenuItem from 'material-ui/MenuItem'
 import {orange500} from 'material-ui/styles/colors'
 import RaisedButton from 'material-ui/RaisedButton';
 
@@ -57,7 +55,6 @@ export default class Email extends Component {
           hintText='Enter your message here...'
           underlineFocusStyle={styles.nameStyle}
           multiLine={true}
-          inputStyle={{width:'100%'}}
           style={{width:'450px'}}
           inputStyle={{color:'rgba(29, 4, 4, 0.59)'}}
         />
