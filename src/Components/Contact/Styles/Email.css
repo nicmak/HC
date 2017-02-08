@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+.emailFill {
+	order:1;
+	display:flex;
+	flex-direction: row;
+	margin-top: 20px;
+	align-items: center;
+	align-content: space-around;
+}
+
+.names {
+	display: flex;
+	order:1;
+	flex-direction: column;
+	margin-left: 30px;
+	margin-top: 30px
+}
+
+.name {
+	margin-bottom: 30px;
+	
+}
+.first {
+	order:1;
+}
+
+.last {
+	order:2;
+}
+
+.emailFill label {
+		  font-family:'Poppins',sans-serif;
+		  font-size: 21px
+}
+
+.message {
+	order:2;
+	display: flex;
+	flex-direction: column;
+	margin-left: 30px;
+}
+
+.contact-info {
+	order:2;
+	margin-left: 200px
+}
+.contact-info label {
+	border-bottom: solid;
+	border-bottom-color:black;
+}
+
+.contact-info p {
+  color:white;
+}
+

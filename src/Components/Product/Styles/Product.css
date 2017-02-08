@@ -1,0 +1,86 @@
+.Productpage-Container {
+	display:flex;
+	flex-direction: column;
+}
+
+.Product-demo {
+	order:1;
+	height:430px;
+	background: #ef3954;
+	display:flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+  .Left-Buttons {
+    order:1;
+    height:50%;
+    width:100px;
+  }
+
+  .Right-Buttons {
+    order:3;
+    height:50%;
+    width:100px;
+  }
+
+  .button1{
+  	margin:20px;
+  }
+
+  .Phone {
+  	order:2;
+  	height:91.5%;
+  	width: 208px;
+  	background-image: url('iphone6.png');
+  	background-size:contain;
+  	background-repeat: no-repeat;
+  }
+
+
+.Solution {
+	order:3;
+	background: #ef3954;
+	display:flex;
+	flex-direction:row-reverse;
+	align-items: center;
+}
+
+.Satisfied {
+	order:4;
+	background: white;
+	display:flex;
+	flex-direction:row;
+	align-items: center;
+
+}
+
+.Problem {
+	order:2;
+	background: white;
+	display:flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+
+.Picture {
+	background-image: url('./Example.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height:201px;
+	width:52%;
+	order:1;
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+.Explaination {
+	order:2;
+	width:100%;
+	margin-right:40px;
+	margin-left:40px;
+
+
+}

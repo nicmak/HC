@@ -1,0 +1,48 @@
+.PhoneView {
+	width: 85%;
+	background-size:contain;
+	height: 73%;
+  margin-left: 17px;
+  margin-top: 42px;
+}
+
+.pic1 {
+	background: url('./MRI.PNG');
+	height:104%;
+	width: 100%;
+	background-size:contain;
+	background-repeat: no-repeat;
+	border-radius: 2px;
+
+}
+.pic2 {
+	background: url('./Message.PNG');
+	height:104%;
+	width: 100%;
+	background-size:contain;
+		background-repeat: no-repeat;
+		border-radius: 2px;
+
+
+
+}
+.pic3 {
+	background: url('./Message1.PNG');
+	height:104%;
+	width: 100%;
+	background-size:contain;
+		background-repeat: no-repeat;
+		border-radius: 2px;
+
+
+
+}
+.pic4 {
+	background: url('./Message2.PNG');
+	height:104%;
+	width: 100%;
+	background-size:contain;
+		background-repeat: no-repeat;
+		border-radius: 2px;
+
+}

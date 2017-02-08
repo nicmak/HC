@@ -1,9 +1,0 @@
-.team-container {
-	display:flex;
-	flex-direction: row;
-}
-
-.first {
-	background-color: black;
-	height:100px;
-}
