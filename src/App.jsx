@@ -1,8 +1,6 @@
 import React, { Component } from 'react'
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider'
-import injectTapEventPlugin from 'react-tap-event-plugin';
-injectTapEventPlugin();
-import NavBar from './Components/NavBar/NavBar'
+import NavBar from './Components/NavBar/NavBar.jsx'
 import Footer from './Components/Footer/Footer'
 
 
