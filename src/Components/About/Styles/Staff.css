@@ -9,10 +9,27 @@
 	align-items: flex-start;
 }
 
-.Person {
-  background: black;
+.Staff-container div {
   margin-top:20px;
   height:200px;
   width:200px;
   border-radius: 108px;
+}
+
+.Person1 {
+  background: url('./Albert.png');
+  background-size:contain;
+
+}
+.Person2 {
+  background: url('./Andrew.png');
+  background-size:contain;
+}
+.Person3 {
+  background: url('./Umar.png');
+  background-size:contain;
+}
+.Person4 {
+  background: url('./Andrew.png');
+  background-size:contain;
 }
