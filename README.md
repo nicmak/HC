@@ -1,3 +1,12 @@
+## Props
+
+| Prop        | Type           | Required  |
+| ------------- |:-------------:| -----:|
+| ```address``` | object       | ✓ |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
