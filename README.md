@@ -1,11 +1,11 @@
 ## Props
 
 
-| Prop        | Type           | Required  |
-| ------------------ |:-------------:| :-----:|
-| ```address``` | Object       | ✓ |
-| ```showCart```      | Boolean      |    |
-| ```env``` | String      |  ✓   |
+| Prop        | Type           | Required  | Default |
+| ------------------ |:-------------:| :-----:| :-----: |
+| ```address``` | Object       | ✓ | N/A |
+| ```showCart```      | Boolean      |    | ```true``` |
+| ```env``` | String      |    | ```development```|
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
