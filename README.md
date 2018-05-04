@@ -1,10 +1,11 @@
 ## Props
 
+
 | Prop        | Type           | Required  |
-| ------------- |:-------------:| -----:|
-| ```address``` | object       | ✓ |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| ------------------ |:-------------:| :-----:|
+| ```address``` | Object       | ✓ |
+| ```showCart```      | Boolean      |    |
+| ```env``` | String      |  ✓   |
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
